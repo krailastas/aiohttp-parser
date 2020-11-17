@@ -1,0 +1,14 @@
+bpython==0.17.1
+SQLAlchemy==1.2.11
+psycopg2==2.7.5
+alembic==1.0.0
+isort==4.3.4
+flake8==3.5.0
+beautifulsoup4==4.6.3
+lxml==4.2.4
+aiohttp==3.4.2
+marshmallow==2.15.4
+asyncpg==0.17.0
+aiojobs==0.2.1
+aiohttp-cors==0.7.0
+dicttoxml==1.7.4

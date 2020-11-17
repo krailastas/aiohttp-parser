@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+# Unit tests
+.cache
+.coverage
+
+# OS generated files #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# dotenv
+.env
+
+# IDE
+.idea
+*.sublime-project
+*.sublime-workspace
+.vscode
+
+# Celery
+celerybeat*
